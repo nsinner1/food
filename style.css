@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    outline: 1px dotted #c5ff36
+}
+
+body{
+width: 960px;
+margin: 0 auto;
+}
+
+header{
+    background: #f6f2ff;
+    color: #420039;
+    height: 100px;
+}
+
+li{
+    list-style: none;
+}
+
+nav ul {
+    color: #932f60;
+
+}
