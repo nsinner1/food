@@ -10,3 +10,11 @@ greeting = "Me too!";
 }
 
 console.log('Our responce', greeting);
+
+for (var i = 0; i < 20; i++){
+    console.log ('How many do you want?');
+    if (i === 20){
+        console.log (i);
+        break;
+    }
+}
