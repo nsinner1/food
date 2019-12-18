@@ -12,11 +12,11 @@ greeting = "Me too!";
 console.log('Our responce', greeting);
 
 var howMany = function(){
-var count = prompt ('how many things do you want to order?')
-}
+var count = prompt ('how many things do you want to order?');
 while(count === "" || isNaN(count)){
     count = prompt('please enter number');
 }
 
 return number(count);
+}
 howMany();
